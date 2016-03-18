@@ -1,4 +1,4 @@
-Klaviyo Weather App by Neal - "bottledweather"
+***viyo Weather App by Neal - "bottledweather"
 
 Email application that allows a user to subscribe and then later gets sent emails detailing
 weather corresponding to place in point.
