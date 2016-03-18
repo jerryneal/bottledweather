@@ -1,7 +1,7 @@
-***viyo Weather App by Neal - "bottledweather"
+# Bottledweather
 
 Email application that allows a user to subscribe and then later gets sent emails detailing
-weather corresponding to place in point.
+weather corresponding to place in point using bottle and WSGIServer. (For beginner)
 
 1. To run the app use
    First download modules needed for app can be found on requirements.txt
