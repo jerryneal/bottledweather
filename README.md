@@ -15,10 +15,11 @@ weather corresponding to place in point.
    "SMTP" protocal for the email
 
     Admin:Gopher$ cat bulk_mail.py
-    self.sender_email = 'happystpatts@gmail.com'#e.g patrick@gmail.com
-    self.sender_password =  '########'           #   'leprecheuens'
-    self.sender_smtp_gateway = 'smtp.gmail.com' #e.g smtp.gmail.com -> Gmail user account,
-                                                 #   smtp.live.com -> Live user account
+    
+             self.sender_email =     'happystpatts@gmail.com'#e.g patrick@gmail.com
+             self.sender_pass =      '########'       
+             self.sender_smtp_gateway = 'smtp.gmail.com' #e.g smtp.gmail.com -> Gmail user account,
+                                                          #   smtp.live.com -> Live user account
     Save and continue!
     (To be Improved)
 
