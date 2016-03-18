@@ -39,8 +39,8 @@ weather corresponding to place in point.
                                      get a confirmation page
 
 Improvements(Future Use)
-         1. Include more buttons to improve moving in between pages.
-         2. Get a reliable source for cities in the US. Best source was 288 but there could be more.
-         3. Make new table in db to include cities, seperate logs for app and db and track userlytics
-         4. Wake up and artist and improve the colors on UI. I know.
-         5. Have user input user_name and password in UI instead of in code.
+            1. Include more buttons to improve moving in between pages.
+            2. Get a reliable source for cities in the US. Best source was 288 but there could be more.
+            3. Make new table in db to include cities, seperate logs for app and db and track userlytics
+            4. Wake up and artist and improve the colors on UI. I know.
+            5. Have user input user_name and password in UI instead of in code.
