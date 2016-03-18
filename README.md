@@ -38,7 +38,7 @@ weather corresponding to place in point.
            localhost:8010/emailcmd - Push the "Send Email" to send the bulk email and you should
                                      get a confirmation page
 
-Improvements(Future Use)
+4.   Improvements(Future Use)
             1. Include more buttons to improve moving in between pages.
             2. Get a reliable source for cities in the US. Best source was 288 but there could be more.
             3. Make new table in db to include cities, seperate logs for app and db and track userlytics
