@@ -33,10 +33,10 @@ weather corresponding to place in point.
 
 3.  Then go over to your localwebsite and use the following links to get to your pages
 
-     localhost:8010/subscribe - Enter your valid email and scroll down to select email
-                                Hit "Subscribe" when done and you should get a confirmation page.
-     localhost:8010/emailcmd - Push the "Send Email" to send the bulk email and you should
-                               get a confirmation page
+           localhost:8010/subscribe - Enter your valid email and scroll down to select email
+                                      Hit "Subscribe" when done and you should get a confirmation page.
+           localhost:8010/emailcmd - Push the "Send Email" to send the bulk email and you should
+                                     get a confirmation page
 
 Improvements(Future Use)
     1. Include more buttons to improve moving in between pages.
