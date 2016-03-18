@@ -1,4 +1,4 @@
-__author__ = 'Kanyu'
+__author__ = 'Neal'
 
 from model import get_data_in_db
 import urllib2, json
