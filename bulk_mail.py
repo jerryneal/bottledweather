@@ -9,15 +9,11 @@ from email.MIMEText import MIMEText
 from email.MIMEImage import MIMEImage
 from smtplib import SMTP
 
-'''
-1 . To run this, first include the following delays in the def _init_ section
-
-'''
 class WeatherEmailCmd():
 
     def __init__(self):
-        self.sender_email = 'happystpatts@gmail.com'    #e.g mike@klaviyo.com
-        self.sender_password =  '########' #'leprecheuens'
+        self.sender_email = 'happystpatts@gmail.com'
+        self.sender_password =  '########'
         self.sender_smtp_gateway = 'smtp.gmail.com'#e.g smtp.gmail.com -> Gmail user account,
                                                    #    smtp.live.com -> Live user account
 
